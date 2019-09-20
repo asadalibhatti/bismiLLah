@@ -1,1 +1,3 @@
 # bismiLLah
+my first repositry on Github
+i love programing......
